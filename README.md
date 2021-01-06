@@ -1,9 +1,9 @@
 # Movement-Tracking-OpenCV
 
-Read the video
+Read the video-- "Walking.mp4" 
 
-use consecutive frames of the video to detect changes/ movement
+Use consecutive frames of the video to detect changes/ movement
 
 Whereever difference is found, contour that area
 
-contour area should be big enough to neglect small changes like movement due to wind, etc
+Contour area should be big enough to neglect small changes like movement due to wind, etc
